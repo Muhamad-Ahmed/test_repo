@@ -1,2 +1,3 @@
-let greet="hello";
-console.log(`${greet} Ahmed`);
+let greet="Hello";
+let website1="Github";
+console.log(`${greet} ${website1}`);
